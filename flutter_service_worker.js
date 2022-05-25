@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "5db5e8f3104ffa8daf22ffc6f0765e39",
-"index.html": "756eaadc7c076fb98c93b9b52206f471",
-"/": "756eaadc7c076fb98c93b9b52206f471",
-"main.dart.js": "bb271d5676f110655585464e5996b16f",
+"index.html": "7811f98c31353fd3e80ad384f4f669b1",
+"/": "7811f98c31353fd3e80ad384f4f669b1",
+"main.dart.js": "5641ee3a1c832b508ad6504ab8487247",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -39,11 +39,7 @@ const RESOURCES = {
 "assets/assets/fonts/Gotham_Book_Italic.ttf": "80f10f243460f6ffad2e98123117c15e",
 "assets/assets/fonts/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/Gotham_Black_Regular.ttf": "8faba3db5e37f5f5e3bb9e10cb6a74aa",
-"assets/assets/fonts/Gotham_Bold.otf": "722c5f898bbca8b2eb3fce0287688326",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/fonts/Gotham_Bold.otf": "722c5f898bbca8b2eb3fce0287688326"
 };
 
 // The application shell files that are downloaded before a service worker can
